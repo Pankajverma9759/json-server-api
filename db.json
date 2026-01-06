@@ -1,0 +1,36 @@
+{
+  "users1": [
+    {
+      "name": "Aarti Verma",
+      "age": "24",
+      "email": "Aartiverma141414@gmail.com",
+      "password": "aarti@123",
+      "mobile": "9876543210",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "kamal Verma",
+      "age": 22,
+      "email": "kamalverma141414@gmail.com",
+      "password": "kamal@123",
+      "mobile": "9123456780"
+    },
+    {
+      "id": "243c",
+      "name": "Pankaj Verma",
+      "age": "22",
+      "email": "Pankajverma141414@gmail.com",
+      "password": "pankaj@123",
+      "mobile": "9998887776"
+    },
+    {
+      "id": "4b92",
+      "name": "Nandini",
+      "age": "22",
+      "email": "nandini@123gmail.com",
+      "password": "verma@1234",
+      "mobile": "9870917090"
+    }
+  ]
+}
